@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c9717063b07513007f444f684a681c72</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_snc_loaner_reque_loaner_request">
+    <x_snc_loaner_reque_loaner_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <asset_barcode>ServiceNow</asset_barcode>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot>ba</depot>
+        <description/>
+        <due_date/>
+        <end_date>2018-05-10 23:47:45</end_date>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>cmdb_ci_mobile_device</item_type>
+        <knowledge>false</knowledge>
+        <location/>
+        <location_to_be_used>United Kingdom</location_to_be_used>
+        <made_sla>true</made_sla>
+        <number>LNR002003</number>
+        <opened_at>2018-05-06 22:49:41</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for display_value="Andrew Jackson">645e03b0eb32010045e1a5115206feb5</requested_for>
+        <short_description/>
+        <sla_due/>
+        <start_date>2018-05-06 23:47:41</start_date>
+        <state>13</state>
+        <sys_class_name>x_snc_loaner_reque_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-06 22:50:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9717063b07513007f444f684a681c72</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 15:55:52</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_loaner_reque_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 16:04:28</sys_created_on>
+        <sys_id>4f4e1873b03913007f444f684a681c66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR002003</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">9099fbdfb0f113007f444f684a681c9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">9099fbdfb0f113007f444f684a681c9b</sys_scope>
+        <sys_update_name>sys_metadata_link_4f4e1873b03913007f444f684a681c66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 16:04:28</sys_updated_on>
+        <tablename>x_snc_loaner_reque_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
